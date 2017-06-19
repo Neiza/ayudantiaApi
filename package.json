@@ -1,0 +1,19 @@
+{
+  "name": "ayudantia",
+  "version": "1.0.0",
+  "description": "api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "ajax",
+    "api"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.15.3"
+  }
+}
